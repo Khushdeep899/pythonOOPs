@@ -1,0 +1,23 @@
+2024-01-31 17:14:56,180:INFO:New item created: Item('Phone', 100.0, 1)
+2024-01-31 17:14:56,180:INFO:New item created: Item('Laptop', 1000.0, 3)
+2024-01-31 17:14:56,180:INFO:New item created: Item('Cable', 10.0, 5)
+2024-01-31 17:14:56,180:INFO:New item created: Item('Mouse', 50.0, 5)
+2024-01-31 17:14:56,180:INFO:New item created: Item('Keyboard', 75.0, 5)
+2024-01-31 17:14:56,180:INFO:Discount applied to Phone, new price: 80.0
+2024-01-31 17:14:56,180:INFO:Discount applied to Laptop, new price: 800.0
+2024-01-31 17:14:56,180:INFO:Discount applied to Cable, new price: 8.0
+2024-01-31 17:14:56,180:INFO:Discount applied to Mouse, new price: 40.0
+2024-01-31 17:14:56,180:INFO:Discount applied to Keyboard, new price: 60.0
+2024-01-31 17:16:48,242:INFO:New item created: Item('Phone', 100.0, 1)
+2024-01-31 17:16:48,243:INFO:New item created: Item('Laptop', 1000.0, 3)
+2024-01-31 17:16:48,243:INFO:New item created: Item('Cable', 10.0, 5)
+2024-01-31 17:16:48,243:INFO:New item created: Item('Mouse', 50.0, 5)
+2024-01-31 17:16:48,243:INFO:New item created: Item('Keyboard', 75.0, 5)
+2024-01-31 17:16:48,243:INFO:Discount applied to Phone, new price: 80.0
+2024-01-31 17:16:48,243:INFO:Discount applied to Laptop, new price: 800.0
+2024-01-31 17:16:48,243:INFO:Discount applied to Cable, new price: 8.0
+2024-01-31 17:16:48,243:INFO:Discount applied to Mouse, new price: 40.0
+2024-01-31 17:16:48,243:INFO:Discount applied to Keyboard, new price: 60.0
+2024-01-31 17:16:48,364:INFO:New item created: Keyboard('Gaming Keyboard', 150, 3, 'Red')
+2024-01-31 17:16:48,364:INFO:Discount applied to Gaming Keyboard, new price: 105.0
+2024-01-31 17:16:48,364:INFO:Color changed for Gaming Keyboard to Blue
