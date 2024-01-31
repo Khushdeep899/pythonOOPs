@@ -20,3 +20,7 @@ Before running the project, ensure you have Python installed on your system. Add
 
 pip install matplotlib
 
+
+<img width="1680" alt="Screenshot 2024-01-31 at 5 19 12 PM" src="https://github.com/Khushdeep899/pythonOOPs/assets/34795705/bc345343-6944-44fd-b220-4016c270c816">
+
+
